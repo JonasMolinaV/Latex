@@ -1,0 +1,510 @@
+PWD d:\Seace\Anexos\11.Bases Estandar AS Servicios en Gral\Latex
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Seace\Anexos\11.Bases Estandar AS Servicios en Gral\Latex\AS_SERVICIOS_INDIVIDUAL.tex
+OUTPUT AS_SERVICIOS_INDIVIDUAL.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT .\0_0_PREAMBULO\Preambulo.tex
+INPUT .\0_0_PREAMBULO\Preambulo.tex
+INPUT 0_0_PREAMBULO\Preambulo.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
+INPUT C:\Program Files\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\AS_SERVICIOS_INDIVIDUAL.aux
+INPUT .\AS_SERVICIOS_INDIVIDUAL.aux
+INPUT AS_SERVICIOS_INDIVIDUAL.aux
+INPUT .\0_1_CARATULA\Caratula.aux
+INPUT .\0_1_CARATULA\Caratula.aux
+INPUT 0_1_CARATULA\Caratula.aux
+INPUT .\0_2_INDICE\Indice.aux
+INPUT .\0_2_INDICE\Indice.aux
+INPUT 0_2_INDICE\Indice.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador01.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador01.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador01.aux
+INPUT .\1_1_ANEXO01\Anexo01.aux
+INPUT .\1_1_ANEXO01\Anexo01.aux
+INPUT 1_1_ANEXO01\Anexo01.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador02.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador02.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador02.aux
+INPUT .\1_2_ANEXO02\Anexo02.aux
+INPUT .\1_2_ANEXO02\Anexo02.aux
+INPUT 1_2_ANEXO02\Anexo02.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador03.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador03.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador03.aux
+INPUT .\1_3_ANEXO03\Anexo03.aux
+INPUT .\1_3_ANEXO03\Anexo03.aux
+INPUT 1_3_ANEXO03\Anexo03.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador04.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador04.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador04.aux
+INPUT .\1_4_ANEXO04\Anexo04.aux
+INPUT .\1_4_ANEXO04\Anexo04.aux
+INPUT 1_4_ANEXO04\Anexo04.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador06.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador06.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador06.aux
+INPUT .\1_6_ANEXO06\Anexo06.aux
+INPUT .\1_6_ANEXO06\Anexo06.aux
+INPUT 1_6_ANEXO06\Anexo06.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Habilitacion.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Habilitacion.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\Habilitacion.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.aux
+INPUT .\2_1_ANEXO08\Anexo08.aux
+INPUT .\2_1_ANEXO08\Anexo08.aux
+INPUT 2_1_ANEXO08\Anexo08.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Separador09.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Separador09.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\Separador09.aux
+INPUT .\2_2_ANEXO09\Anexo09.aux
+INPUT .\2_2_ANEXO09\Anexo09.aux
+INPUT 2_2_ANEXO09\Anexo09.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.aux
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador07.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador07.aux
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador07.aux
+INPUT .\3_1_ANEXO07\Anexo07.aux
+INPUT .\3_1_ANEXO07\Anexo07.aux
+INPUT 3_1_ANEXO07\Anexo07.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador10.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador10.aux
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador10.aux
+INPUT .\3_2_ANEXO10\Anexo10.aux
+INPUT .\3_2_ANEXO10\Anexo10.aux
+INPUT 3_2_ANEXO10\Anexo10.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador11.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador11.aux
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador11.aux
+INPUT .\3_3_ANEXO11\Anexo11.aux
+INPUT .\3_3_ANEXO11\Anexo11.aux
+INPUT 3_3_ANEXO11\Anexo11.aux
+OUTPUT AS_SERVICIOS_INDIVIDUAL.aux
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\0_1_CARATULA\Caratula.tex
+OUTPUT 0_1_CARATULA\Caratula.aux
+INPUT .\0_1_CARATULA\Caratula.tex
+INPUT .\0_1_CARATULA\Caratula.tex
+INPUT 0_1_CARATULA\Caratula.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcbx1200.tfm
+OUTPUT AS_SERVICIOS_INDIVIDUAL.pdf
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\0_2_INDICE\Indice.tex
+OUTPUT 0_2_INDICE\Indice.aux
+INPUT .\0_2_INDICE\Indice.tex
+INPUT .\0_2_INDICE\Indice.tex
+INPUT 0_2_INDICE\Indice.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
+INPUT .\1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.tex
+OUTPUT 1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.tex
+INPUT 1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador01.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador01.tex
+OUTPUT 1_0_DOCUMENTOS_ADMISION\Separador01.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador01.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador01.tex
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador01.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm2488.tfm
+INPUT .\1_1_ANEXO01\Anexo01.tex
+INPUT .\1_1_ANEXO01\Anexo01.tex
+OUTPUT 1_1_ANEXO01\Anexo01.aux
+INPUT .\1_1_ANEXO01\Anexo01.tex
+INPUT .\1_1_ANEXO01\Anexo01.tex
+INPUT 1_1_ANEXO01\Anexo01.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcbx1440.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador02.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador02.tex
+OUTPUT 1_0_DOCUMENTOS_ADMISION\Separador02.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador02.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador02.tex
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador02.tex
+INPUT .\1_2_ANEXO02\Anexo02.tex
+INPUT .\1_2_ANEXO02\Anexo02.tex
+OUTPUT 1_2_ANEXO02\Anexo02.aux
+INPUT .\1_2_ANEXO02\Anexo02.tex
+INPUT .\1_2_ANEXO02\Anexo02.tex
+INPUT 1_2_ANEXO02\Anexo02.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador03.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador03.tex
+OUTPUT 1_0_DOCUMENTOS_ADMISION\Separador03.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador03.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador03.tex
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador03.tex
+INPUT .\1_3_ANEXO03\Anexo03.tex
+INPUT .\1_3_ANEXO03\Anexo03.tex
+OUTPUT 1_3_ANEXO03\Anexo03.aux
+INPUT .\1_3_ANEXO03\Anexo03.tex
+INPUT .\1_3_ANEXO03\Anexo03.tex
+INPUT 1_3_ANEXO03\Anexo03.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador04.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador04.tex
+OUTPUT 1_0_DOCUMENTOS_ADMISION\Separador04.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador04.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador04.tex
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador04.tex
+INPUT .\1_4_ANEXO04\Anexo04.tex
+INPUT .\1_4_ANEXO04\Anexo04.tex
+OUTPUT 1_4_ANEXO04\Anexo04.aux
+INPUT .\1_4_ANEXO04\Anexo04.tex
+INPUT .\1_4_ANEXO04\Anexo04.tex
+INPUT 1_4_ANEXO04\Anexo04.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador06.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador06.tex
+OUTPUT 1_0_DOCUMENTOS_ADMISION\Separador06.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador06.tex
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador06.tex
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador06.tex
+INPUT .\1_6_ANEXO06\Anexo06.tex
+INPUT .\1_6_ANEXO06\Anexo06.tex
+OUTPUT 1_6_ANEXO06\Anexo06.aux
+INPUT .\1_6_ANEXO06\Anexo06.tex
+INPUT .\1_6_ANEXO06\Anexo06.tex
+INPUT 1_6_ANEXO06\Anexo06.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.tex
+OUTPUT 2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.tex
+INPUT 2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Habilitacion.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Habilitacion.tex
+OUTPUT 2_0_DOCUMENTOS_CALIFICACION\Habilitacion.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Habilitacion.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Habilitacion.tex
+INPUT 2_0_DOCUMENTOS_CALIFICACION\Habilitacion.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.tex
+OUTPUT 2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.tex
+INPUT 2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.tex
+OUTPUT 2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.tex
+INPUT 2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.tex
+OUTPUT 2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.tex
+INPUT 2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.tex
+OUTPUT 2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.tex
+INPUT 2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.tex
+OUTPUT 2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.tex
+INPUT 2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.tex
+OUTPUT 2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.tex
+INPUT 2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.tex
+INPUT .\2_1_ANEXO08\Anexo08.tex
+INPUT .\2_1_ANEXO08\Anexo08.tex
+OUTPUT 2_1_ANEXO08\Anexo08.aux
+INPUT .\2_1_ANEXO08\Anexo08.tex
+INPUT .\2_1_ANEXO08\Anexo08.tex
+INPUT 2_1_ANEXO08\Anexo08.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcbx0600.tfm
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Separador09.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Separador09.tex
+OUTPUT 2_0_DOCUMENTOS_CALIFICACION\Separador09.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Separador09.tex
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Separador09.tex
+INPUT 2_0_DOCUMENTOS_CALIFICACION\Separador09.tex
+INPUT .\2_2_ANEXO09\Anexo09.tex
+INPUT .\2_2_ANEXO09\Anexo09.tex
+OUTPUT 2_2_ANEXO09\Anexo09.aux
+INPUT .\2_2_ANEXO09\Anexo09.tex
+INPUT .\2_2_ANEXO09\Anexo09.tex
+INPUT 2_2_ANEXO09\Anexo09.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.tex
+OUTPUT 3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.tex
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador07.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador07.tex
+OUTPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador07.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador07.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador07.tex
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador07.tex
+INPUT .\3_1_ANEXO07\Anexo07.tex
+INPUT .\3_1_ANEXO07\Anexo07.tex
+OUTPUT 3_1_ANEXO07\Anexo07.aux
+INPUT .\3_1_ANEXO07\Anexo07.tex
+INPUT .\3_1_ANEXO07\Anexo07.tex
+INPUT 3_1_ANEXO07\Anexo07.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador10.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador10.tex
+OUTPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador10.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador10.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador10.tex
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador10.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT .\3_2_ANEXO10\Anexo10.tex
+INPUT .\3_2_ANEXO10\Anexo10.tex
+OUTPUT 3_2_ANEXO10\Anexo10.aux
+INPUT .\3_2_ANEXO10\Anexo10.tex
+INPUT .\3_2_ANEXO10\Anexo10.tex
+INPUT 3_2_ANEXO10\Anexo10.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador11.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador11.tex
+OUTPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador11.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador11.tex
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador11.tex
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador11.tex
+INPUT .\3_3_ANEXO11\Anexo11.tex
+INPUT .\3_3_ANEXO11\Anexo11.tex
+OUTPUT 3_3_ANEXO11\Anexo11.aux
+INPUT .\3_3_ANEXO11\Anexo11.tex
+INPUT .\3_3_ANEXO11\Anexo11.tex
+INPUT 3_3_ANEXO11\Anexo11.tex
+INPUT AS_SERVICIOS_INDIVIDUAL.aux
+INPUT .\0_1_CARATULA\Caratula.aux
+INPUT .\0_1_CARATULA\Caratula.aux
+INPUT 0_1_CARATULA\Caratula.aux
+INPUT .\0_2_INDICE\Indice.aux
+INPUT .\0_2_INDICE\Indice.aux
+INPUT 0_2_INDICE\Indice.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\DocumentosAdmision.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador01.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador01.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador01.aux
+INPUT .\1_1_ANEXO01\Anexo01.aux
+INPUT .\1_1_ANEXO01\Anexo01.aux
+INPUT 1_1_ANEXO01\Anexo01.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador02.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador02.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador02.aux
+INPUT .\1_2_ANEXO02\Anexo02.aux
+INPUT .\1_2_ANEXO02\Anexo02.aux
+INPUT 1_2_ANEXO02\Anexo02.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador03.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador03.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador03.aux
+INPUT .\1_3_ANEXO03\Anexo03.aux
+INPUT .\1_3_ANEXO03\Anexo03.aux
+INPUT 1_3_ANEXO03\Anexo03.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador04.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador04.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador04.aux
+INPUT .\1_4_ANEXO04\Anexo04.aux
+INPUT .\1_4_ANEXO04\Anexo04.aux
+INPUT 1_4_ANEXO04\Anexo04.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador06.aux
+INPUT .\1_0_DOCUMENTOS_ADMISION\Separador06.aux
+INPUT 1_0_DOCUMENTOS_ADMISION\Separador06.aux
+INPUT .\1_6_ANEXO06\Anexo06.aux
+INPUT .\1_6_ANEXO06\Anexo06.aux
+INPUT 1_6_ANEXO06\Anexo06.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\RequisitosCalificacion.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Habilitacion.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Habilitacion.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\Habilitacion.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\EquipamientoEstrategico.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\InfraestructuraEstrategica.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\FormacionPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\CapacitacionPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\ExperienciaPersonal.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\ExperienciaPostor.aux
+INPUT .\2_1_ANEXO08\Anexo08.aux
+INPUT .\2_1_ANEXO08\Anexo08.aux
+INPUT 2_1_ANEXO08\Anexo08.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Separador09.aux
+INPUT .\2_0_DOCUMENTOS_CALIFICACION\Separador09.aux
+INPUT 2_0_DOCUMENTOS_CALIFICACION\Separador09.aux
+INPUT .\2_2_ANEXO09\Anexo09.aux
+INPUT .\2_2_ANEXO09\Anexo09.aux
+INPUT 2_2_ANEXO09\Anexo09.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.aux
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\DocumentosFacultativo.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador07.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador07.aux
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador07.aux
+INPUT .\3_1_ANEXO07\Anexo07.aux
+INPUT .\3_1_ANEXO07\Anexo07.aux
+INPUT 3_1_ANEXO07\Anexo07.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador10.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador10.aux
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador10.aux
+INPUT .\3_2_ANEXO10\Anexo10.aux
+INPUT .\3_2_ANEXO10\Anexo10.aux
+INPUT 3_2_ANEXO10\Anexo10.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador11.aux
+INPUT .\3_0_DOCUMENTOS_FACULTATIVO\Separador11.aux
+INPUT 3_0_DOCUMENTOS_FACULTATIVO\Separador11.aux
+INPUT .\3_3_ANEXO11\Anexo11.aux
+INPUT .\3_3_ANEXO11\Anexo11.aux
+INPUT 3_3_ANEXO11\Anexo11.aux
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcbx0600.pk
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcbx0600.pk
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcbx1440.pk
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcbx1440.pk
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm2488.pk
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm2488.pk
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcbx1200.pk
+INPUT C:\Users\jamv9\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcbx1200.pk
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
